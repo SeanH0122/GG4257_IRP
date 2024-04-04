@@ -7,4 +7,5 @@ This repo has two files, GG4257_IRP_Report and GG4257_IRP_Code. The Report file 
 Finally, I've published both the Report and Code on my GitHub and have linked all the necessary data in a Google Drive folder.
 
 [Data](https://drive.google.com/drive/folders/1FTuEH6cTcNmxLGDjKp0Z7PCKc2WacJs8?usp=sharing)
-GitHub Repo
+
+[GitHub Repo](https://github.com/SeanH0122/GG4257_IRP)
